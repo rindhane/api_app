@@ -1,0 +1,4 @@
+#exclude python files
+Lib/
+Scripts/
+pyvenv.cfg
